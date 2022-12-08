@@ -6,6 +6,6 @@ Update I corrected a few things like the higlighing and the task bar color12/6/2
 
 ![Alt text](DarkMonk.png)
 
-**Enjoy!**
+Enjoy
 
 # DarkMonk
